@@ -1,6 +1,6 @@
 ## Live version
 
-Available at GitHub pages: <https://tyurina-yuliya.github.io/dashboard/>
+Available at GitHub pages: <https://tyurina-yuliya.github.io/Dashboard/>
 
 ## Used technologies:
 
